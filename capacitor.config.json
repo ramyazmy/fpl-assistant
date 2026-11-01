@@ -1,0 +1,9 @@
+{
+  "appId": "com.fpl.helperpro",
+  "appName": "FPL Helper Pro",
+  "webDir": "www",
+  "server": {
+    "url": "https://fpl-helper-pro.ai.studio",
+    "cleartext": false
+  }
+}
